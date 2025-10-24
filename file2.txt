@@ -1,0 +1,2 @@
+This is file two for git.
+Add new content to file two.
